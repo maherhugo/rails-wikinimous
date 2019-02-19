@@ -13,3 +13,31 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: none;
+}
+
+p {
+  text-align: center;
+  text-decoration: none;
+}
+
+#add {
+  text-align: right;
+  padding: 20px;
+  text-decoration: none;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+}
+
+.form {
+  text-align: center;
+  border-radius: 4px;
+}
